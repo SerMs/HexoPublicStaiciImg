@@ -1,6 +1,6 @@
 {
   "name": "serms",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "资源仓库",
   "main": "index.js",
   "scripts": {
